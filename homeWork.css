@@ -1,0 +1,19 @@
+.header {
+    background-color: teal;
+    color: white;
+    position: sticky;
+    top: 0;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 3rem;
+}
+
+.box {
+    border: 10px solid black;
+    text-align: center;
+    color: seagreen;
+    font-size: 20px;
+}
